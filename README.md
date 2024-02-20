@@ -1,5 +1,5 @@
 ##### ->👋Hi, I'm Md. Sholayman
-##### ->👀I'm interested in Full-Stack Web Development.
-##### ->🌱I'm currently learning MERN-Stack Web Development.
+##### ->👀I'm a Full-Stack Web Developer.
+##### ->🌱I'm currently learning Next.JS.
 ##### ->🤝I'm looking to collaborate on...
-##### ->📧How to reach me : mdsholayman98@gmail.com
+##### ->📧How to reach me : sholayman.dev@gmail.com
