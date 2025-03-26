@@ -51,6 +51,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sholayman99/sholayman99/output/snake.svg" alt="Snake animation" />
-
 ###
