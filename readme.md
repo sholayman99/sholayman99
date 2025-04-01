@@ -1,9 +1,8 @@
-<!--
+
 <h2 align="center">
   Welcome to Md. Sholayman World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
--->
 
 <!--
 <p align="center">
@@ -22,7 +21,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://sholayman99.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://sholayman99.com">Md. Solayman</a></b>
         </samp>
 </h3>
 
