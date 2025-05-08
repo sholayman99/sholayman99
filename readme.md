@@ -5,7 +5,7 @@
 
 <div align="right">
   <a href="https://komarev.com/ghpvc/?username=sholayman99">
-    <img src="https://komarev.com/ghpvc/?username=sholayman99&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile visitor" />
+    <img src="https://komarev.com/ghpvc/?username=sholayman99&label=Profile+Views&color=ce9927&style=flat" alt="Profile visitor" />
   </a>
 </div>
 
