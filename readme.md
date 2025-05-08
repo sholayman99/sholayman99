@@ -123,13 +123,10 @@
 
 </div>
 
----
 <div align="center">
-  
-  "First, solve the problem. Then, write the code." - John Johnson
-  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
 </div>
----
+
 
 <div align="center">
   <h3>📫 Let's Connect!</h3>
