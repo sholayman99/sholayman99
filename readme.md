@@ -1,11 +1,11 @@
 <h1 align="center">
-  ✨ Welcome to Md. Sholayman's Universe ✨
+  🚀 Welcome to Md. Sholayman's Tech Galaxy 🚀
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <div align="right">
   <a href="https://komarev.com/ghpvc/?username=sholayman99">
-    <img src="https://komarev.com/ghpvc/?username=sholayman99&label=Profile+Views&color=ce9927&style=flat" alt="Profile visitor" />
+    <img src="https://komarev.com/ghpvc/?username=sholayman99&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile visitor" />
   </a>
 </div>
 
@@ -20,68 +20,68 @@
 
 <p align="center"> 
   <samp>
-    「 Full Stack Alchemist | Turning Coffee into Code ☕️ 」
+    「 Full Stack Developer | Code Artisan 」
     <br>
-    「 MERN Stack Developer from <b>Bangladesh</b> 🇧🇩 」
+    「 MERN Stack Specialist from <b>Bangladesh</b> 🇧🇩 」
     <br>
-    <a href="https://www.google.com/search?q=Md.+Sholayman">「 Google My Magic 」</a>
+    <a href="https://www.google.com/search?q=Md.+Sholayman">「 Explore My Digital Footprint 」</a>
   </samp>
 </p>
 
 <!-- Social Links -->
 <p align="center">
   <a href="https://mdsholayman.vercel.app" target="blank">
-    <img src="https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://bd.linkedin.com/in/md-sholayman-626776229" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/MdSholayman99" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.instagram.com/sholayman_99" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61556642066094" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:sholayman.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 ---
 
-<!-- About Section -->
-## 🧙‍♂️ About The Wizard
+## 🧑‍💻 About Me
 
-<img align="right" width="350" src="/assets/programmer.gif" alt="Coding wizard casting spells" />
+<img align="right" width="350" src="/assets/programmer.gif" alt="Coding animation"/>
 
-- 🔭 &emsp; Currently conjuring up **Next.js and React Native** projects
-- 🌱 &emsp; Mastering the arcane arts of **Microservices and Docker**
-- 👯 &emsp; Looking to collaborate on **open source magic**
-- 💬 &emsp; Ask me about **MERN stack sorcery**
-- ⚡ &emsp; Fun fact: **I can debug CSS in my dreams**
+- 🔭 &emsp; Currently working on cutting-edge MERN stack projects
+- 🌱 &emsp; Mastering advanced React patterns and system design
+- 💡 &emsp; Passionate about problem solving and clean code
+- 📫 &emsp; How to reach me: **sholayman.dev@gmail.com**
+- ⚡ &emsp; Fun fact: I can solve Rubik's cube in under 2 minutes
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend Alchemy
+### Programming Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![React Redux](https://img.shields.io/badge/React_Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend Wizardry
+### Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -90,38 +90,49 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-  ![Sholayman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sholayman99&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD700)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sholayman99&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=sholayman99&theme=radical&hide_border=true&background=0D1117&stroke=7F3FBF&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B6B)
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sholayman99&theme=react-dark&bg_color=0D1117&color=FF6B6B&line=FFD700&point=FF6B6B&hide_border=true)
-  
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sholayman99&show_icons=true&theme=radical&hide_border=true" alt="Sholayman's stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholayman99&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> |
+| ------------- | ------------- |
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sholayman99&theme=radical&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sholayman99&theme=react-dark&bg_color=0D1117&color=FF6B6B&line=FFD700&point=FF6B6B&hide_border=true)
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=sholayman99&theme=radical&no-frame=true&no-bg=true&margin-w=20&row=2&column=4)
-  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sholayman99&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake Game](https://github.com/sholayman99/sholayman99/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
 
 <div align="center">
   
-  ![Snake Animation](https://github.com/sholayman99/sholayman99/blob/output/github-contribution-grid-snake.svg)
+  "First, solve the problem. Then, write the code." - John Johnson
   
 </div>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
-</p>
