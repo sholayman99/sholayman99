@@ -127,11 +127,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
 </div>
 
-
-<div align="center">
-  <h3>📫 Let's Connect!</h3>
-  <p>Feel free to reach out for collaborations or just a friendly chat</p>
-  <a href="mailto:sholayman.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
