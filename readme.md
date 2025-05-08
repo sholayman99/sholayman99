@@ -1,107 +1,127 @@
-<h2 align="center">
-  Welcome to Md. Sholayman World! 
-<!-- ![Strapi](https://img.shields.io/badge/Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white) -->
+<h1 align="center">
+  ✨ Welcome to Md. Sholayman's Universe ✨
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+</h1>
 
-<a href="https://komarev.com/ghpvc/?username=sholayman99">
-  <img align="right" src="https://komarev.com/ghpvc/?username=sholayman99&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+<div align="right">
+  <a href="https://komarev.com/ghpvc/?username=sholayman99">
+    <img src="https://komarev.com/ghpvc/?username=sholayman99&label=Profile+Views&color=ce9927&style=flat" alt="Profile visitor" />
+  </a>
+</div>
 
 [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro -->
 <h3 align="center">
-  <samp>&gt; Hey There! I am
+  <samp>&gt; Hello World! I'm
     <b><a target="_blank" href="https://sholayman99.com">Md. Sholayman</a></b>
   </samp>
 </h3>
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Md.+Sholayman">「 Google Me 」</a>
+    「 Full Stack Alchemist | Turning Coffee into Code ☕️ 」
     <br>
-    「 I am a MERN stack web application developer from <b>Bangladesh</b> 」
+    「 MERN Stack Developer from <b>Bangladesh</b> 🇧🇩 」
     <br>
+    <a href="https://www.google.com/search?q=Md.+Sholayman">「 Google My Magic 」</a>
   </samp>
 </p>
 
 <!-- Social Links -->
 <p align="center">
   <a href="https://mdsholayman.vercel.app" target="blank">
-    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
   </a>
   <a href="https://bd.linkedin.com/in/md-sholayman-626776229" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/MdSholayman99" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.instagram.com/sholayman_99" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=61556642066094" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:sholayman.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
 
 <!-- About Section -->
-## About Me
+## 🧙‍♂️ About The Wizard
 
-<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+<img align="right" width="350" src="/assets/programmer.gif" alt="Coding wizard casting spells" />
 
-- ✌️ &emsp; Passionate about programming and sharing knowledge.  
-- ❤️ &emsp; Love writing code and exploring new technologies.  
-- 📧 &emsp; Reach me anytime: **sholayman.dev@gmail.com**  
-- 💬 &emsp; Ask me about anything [here](https://github.com/sholayman99/sholayman99/issues)  
+- 🔭 &emsp; Currently conjuring up **Next.js and React Native** projects
+- 🌱 &emsp; Mastering the arcane arts of **Microservices and Docker**
+- 👯 &emsp; Looking to collaborate on **open source magic**
+- 💬 &emsp; Ask me about **MERN stack sorcery**
+- ⚡ &emsp; Fun fact: **I can debug CSS in my dreams**
 
 ---
 
-## Languages and Tools
+## 🛠️ Tech Stack
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+### Frontend Alchemy
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Redux](https://img.shields.io/badge/React_Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Wizardry
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![Sholayman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sholayman99&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FFD700)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sholayman99&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=sholayman99&theme=radical&hide_border=true&background=0D1117&stroke=7F3FBF&ring=FF6B6B&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF6B6B)
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sholayman99&theme=react-dark&bg_color=0D1117&color=FF6B6B&line=FFD700&point=FF6B6B&hide_border=true)
+  
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=sholayman99&theme=radical&no-frame=true&no-bg=true&margin-w=20&row=2&column=4)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![Snake Animation](https://github.com/sholayman99/sholayman99/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 <p align="center">
-  <a href="https://github.com/sholayman99">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sholayman99&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sholayman99">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sholayman99&theme=radical" alt="GitHub Profile Summary"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sholayman99">
-    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sholayman99&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sholayman99&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=sholayman99&theme=react-dark">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sholayman99&theme=react-dark&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&title_color=FFFFFF" alt="GitHub Activity Graph"/>
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote"/>
 </p>
