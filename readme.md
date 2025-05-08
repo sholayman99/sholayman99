@@ -1,5 +1,5 @@
 <h1 align="center">
-  🚀 Welcome to Md. Sholayman's Tech Galaxy 🚀
+  🚀 Welcome to Md. Sholayman's Tech Universe 🚀
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -20,30 +20,30 @@
 
 <p align="center"> 
   <samp>
-    「 Full Stack Developer | Code Artisan 」
+    「 Full Stack Developer | MERN Specialist 」
     <br>
-    「 MERN Stack Specialist from <b>Bangladesh</b> 🇧🇩 」
+    「 Building digital solutions from <b>Bangladesh</b> 🇧🇩 」
     <br>
-    <a href="https://www.google.com/search?q=Md.+Sholayman">「 Explore My Digital Footprint 」</a>
+    ✉️ <b>sholayman.dev@gmail.com</b>
   </samp>
 </p>
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://mdsholayman.vercel.app" target="blank">
+  <a href="mailto:sholayman.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://mdsholayman.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://bd.linkedin.com/in/md-sholayman-626776229" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/MdSholayman99" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.instagram.com/sholayman_99" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:sholayman.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -53,11 +53,11 @@
 
 <img align="right" width="350" src="/assets/programmer.gif" alt="Coding animation"/>
 
-- 🔭 &emsp; Currently working on cutting-edge MERN stack projects
-- 🌱 &emsp; Mastering advanced React patterns and system design
-- 💡 &emsp; Passionate about problem solving and clean code
-- 📫 &emsp; How to reach me: **sholayman.dev@gmail.com**
-- ⚡ &emsp; Fun fact: I can solve Rubik's cube in under 2 minutes
+- 🔭 &emsp; Currently building scalable web applications with MERN stack
+- 🌱 &emsp; Mastering advanced JavaScript patterns and system architecture
+- 💡 &emsp; Passionate about clean code and efficient solutions
+- 📫 &emsp; <b>Let's connect:</b> <a href="mailto:sholayman.dev@gmail.com">sholayman.dev@gmail.com</a>
+- ⚡ &emsp; Fun fact: I enjoy algorithmic problem solving
 
 ---
 
@@ -82,9 +82,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -94,45 +96,45 @@
 
 <div align="center">
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sholayman99&show_icons=true&theme=radical&hide_border=true" alt="Sholayman's stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholayman99&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> |
-| ------------- | ------------- |
+| <img src="https://github-readme-stats.vercel.app/api?username=sholayman99&show_icons=true&theme=radical&hide_border=true" alt="Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholayman99&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> |
+|-------------|-------------|
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sholayman99&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=sholayman99&theme=radical&hide_border=true&background=0D1117)
 
 </div>
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sholayman99&theme=react-dark&bg_color=0D1117&color=FF6B6B&line=FFD700&point=FF6B6B&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sholayman99&theme=react-dark&bg_color=0D1117&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sholayman99&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sholayman99&theme=radical&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
-
-<div align="center">
-
-![Snake Game](https://github.com/sholayman99/sholayman99/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 <div align="center">
   
   "First, solve the problem. Then, write the code." - John Johnson
   
+</div>
+---
+
+<div align="center">
+  <h3>📫 Let's Connect!</h3>
+  <p>Feel free to reach out for collaborations or just a friendly chat</p>
+  <a href="mailto:sholayman.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
