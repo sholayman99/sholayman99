@@ -101,11 +101,13 @@
 
 </div>
 
+
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sholayman99&theme=radical&hide_border=true&background=0D1117)
+  <img src="https://img.shields.io/badge/GitHub%20Streak-Not%20Available-red?style=for-the-badge&logo=github" alt="GitHub Streak" />
 
 </div>
+
 
 
 <div align="center">
