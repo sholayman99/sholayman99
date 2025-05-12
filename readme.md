@@ -103,9 +103,10 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sholayman99&theme=radical&hide_border=true&background=0D1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sholayman99&theme=radical&hide_border=true&background=0D1117)
 
 </div>
+
 
 <div align="center">
 
