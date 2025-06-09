@@ -14,10 +14,6 @@
 
 <!-- Intro Section -->
 <div align="center">
-  <img width="55%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=FFD700&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Md.+Sholayman;Full+Stack+Developer+%7C+MERN+Specialist;Building+digital+solutions+from+Bangladesh" alt="Typing animation" />
-</div>
-
-<div align="center">
   <img src="/assets/programmer.gif" width="300" alt="Coding animation"/>
 </div>
 
