@@ -96,9 +96,7 @@
 
 <div align="center">
 
-| <img src="https://github-readme-stats.vercel.app/api?username=sholayman99&show_icons=true&theme=radical&hide_border=true" alt="Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholayman99&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> |
-|-------------|-------------|
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=sholayman99&theme=dracula&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
 
 
