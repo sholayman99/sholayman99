@@ -107,7 +107,8 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sholayman99&theme=radical&row=2&column=4&margin-w=15&margin-h=15)
+[![GitHub trophies](https://github-profile-trophy.vercel.app/?username=sholayman99&theme=onedark&no-bg=true&row=1&column=8&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </div>
 
