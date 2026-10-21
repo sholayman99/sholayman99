@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Tech stack">
+<defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.03"/></pattern></defs>
+<rect width="1200" height="340" rx="14" fill="#0a0e14"/><rect width="1200" height="340" rx="14" fill="url(#g)"/>
+<rect x="0.5" y="0.5" width="1199" height="339" rx="13.5" fill="none" stroke="#263241"/>
+<rect x="40" y="53" width="14" height="2" fill="#2dd4bf"/>
+<text x="64" y="61" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="2" fill="#8b949e" textLength="90" lengthAdjust="spacing">LANGUAGES</text>
+<rect x="250" y="36" width="41" height="40" rx="7" fill="#111823" stroke="#263241"/>
+<text x="266" y="61" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3" textLength="9" lengthAdjust="spacing">C</text>
+<rect x="303" y="36" width="122" height="40" rx="7" fill="#111823" stroke="#263241"/>
+<text x="319" y="61" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3" textLength="90" lengthAdjust="spacing">JavaScript</text>
+<rect x="437" y="36" width="122" height="40" rx="7" fill="#111823" stroke="#263241"/>
+<text x="453" y="61" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3" textLength="90" lengthAdjust="spacing">TypeScript</text>
+<line x1="40" y1="94" x2="1160" y2="94" stroke="#17202b"/>
+<rect x="40" y="129" width="14" height="2" fill="#2dd4bf"/>
+<text x="64" y="137" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="2" fill="#8b949e" textLength="80" lengthAdjust="spacing">FRONTEND</text>
+<rect x="250" y="112" width="77" height="40" rx="7" fill="#111823" stroke="#263241"/>
+<text x="266" y="137" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3" textLength="45" lengthAdjust="spacing">React</text>
+<rect x="339" y="112" width="95" height="40" rx="7" fill="#111823" stroke="#263241"/>
+<text x="355" y="137" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3" textLength="63" lengthAdjust="spacing">Next.js</text>
+<rect x="446" y="112" width="77" height="40" rx="7" fill="#111823" stroke="#263241"/>
+<text x="462" y="137" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3" textLength="45" lengthAdjust="spacing">Redux</text>
+<rect x="535" y="112" width="77" height="40" rx="7" fill="#111823" stroke="#263241"/>
+<text x="551" y="137" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3" textLength="45" lengthAdjust="spacing">HTML5</text>
+<rect x="624" y="112" width="68" height="40" rx="7" fill="#111823" stroke="#263241"/>
+<text x="640" y="137" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3" textLength="36" lengthAdjust="spacing">CSS3</text>
+<rect x="704" y="112" width="140" height="40" rx="7" fill="#111823" stroke="#263241"/>
+<text x="720" y="137" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3" textLength="108" lengthAdjust="spacing">Tailwind CSS</text>
+<line x1="40" y1="170" x2="1160" y2="170" stroke="#17202b"/>
+<rect x="40" y="205" width="14" height="2" fill="#2dd4bf"/>
+<text x="64" y="213" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="2" fill="#8b949e" textLength="70" lengthAdjust="spacing">BACKEND</text>
+<rect x="250" y="188" width="95" height="40" rx="7" fill="#111823" stroke="#263241"/>
+<text x="266" y="213" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3" textLength="63" lengthAdjust="spacing">Node.js</text>
+<rect x="357" y="188" width="122" height="40" rx="7" fill="#111823" stroke="#263241"/>
+<text x="373" y="213" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3" textLength="90" lengthAdjust="spacing">Express.js</text>
+<rect x="491" y="188" width="95" height="40" rx="7" fill="#111823" stroke="#263241"/>
+<text x="507" y="213" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3" textLength="63" lengthAdjust="spacing">MongoDB</text>
+<rect x="598" y="188" width="86" height="40" rx="7" fill="#111823" stroke="#263241"/>
+<text x="614" y="213" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3" textLength="54" lengthAdjust="spacing">Prisma</text>
+<line x1="40" y1="246" x2="1160" y2="246" stroke="#17202b"/>
+<rect x="40" y="281" width="14" height="2" fill="#2dd4bf"/>
+<text x="64" y="289" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="2" fill="#8b949e" textLength="70" lengthAdjust="spacing">TOOLING</text>
+<rect x="250" y="264" width="59" height="40" rx="7" fill="#111823" stroke="#263241"/>
+<text x="266" y="289" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3" textLength="27" lengthAdjust="spacing">Git</text>
+<rect x="321" y="264" width="95" height="40" rx="7" fill="#111823" stroke="#263241"/>
+<text x="337" y="289" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3" textLength="63" lengthAdjust="spacing">VS Code</text>
+<rect x="428" y="264" width="104" height="40" rx="7" fill="#111823" stroke="#263241"/>
+<text x="444" y="289" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3" textLength="72" lengthAdjust="spacing">WebStorm</text>
+<rect x="544" y="264" width="86" height="40" rx="7" fill="#111823" stroke="#263241"/>
+<text x="560" y="289" font-family="'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#e6edf3" textLength="54" lengthAdjust="spacing">Vercel</text>
+</svg>
