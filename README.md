@@ -26,7 +26,7 @@ I build full-stack web applications with the MERN stack, and I care about the pa
   <img height="190" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholayman99&layout=compact&bg_color=0a0f0d&border_color=1f2e27&title_color=4ade80&text_color=c9d1d9" />
 </p>
 
-<img width="100%" alt="Contribution calendar" src="https://ghchart.rshah.org/4ade80/sholayman99" />
+<img width="100%" alt="Contribution calendar" src="assets/calendar.svg" />
 
 <br />
 
