@@ -22,11 +22,11 @@ I build full-stack web applications with the MERN stack, and I care about the pa
 <img src="assets/label-activity.svg" width="100%" alt="Activity" />
 
 <p>
-  <img height="190" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sholayman99&show_icons=false&hide_border=false&include_all_commits=true&count_private=true&bg_color=0a0e14&border_color=30363d&title_color=2dd4bf&text_color=c9d1d9&ring_color=2dd4bf&rank_icon=percentile" />
-  <img height="190" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholayman99&layout=compact&bg_color=0a0e14&border_color=30363d&title_color=2dd4bf&text_color=c9d1d9" />
+  <img height="190" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sholayman99&show_icons=false&hide_border=false&include_all_commits=true&count_private=true&bg_color=0a0f0d&border_color=1f2e27&title_color=4ade80&text_color=c9d1d9&ring_color=4ade80&rank_icon=percentile" />
+  <img height="190" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sholayman99&layout=compact&bg_color=0a0f0d&border_color=1f2e27&title_color=4ade80&text_color=c9d1d9" />
 </p>
 
-<img width="100%" alt="Contribution calendar" src="https://ghchart.rshah.org/2dd4bf/sholayman99" />
+<img width="100%" alt="Contribution calendar" src="https://ghchart.rshah.org/4ade80/sholayman99" />
 
 <br />
 
